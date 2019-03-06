@@ -231,7 +231,7 @@ class ModelEditorclass(QtGui.QWidget):
             self.editfile=str(QtGui.QFileDialog.getOpenFileName(self,"Open Library Directory","../deviceModelLibrary","*.lib"))
             self.createtable(self.editfile)
         except:
-            print"No File selected for edit"
+            print("No File selected for edit")
             pass
         
     def createtable(self, modelfile):
@@ -252,7 +252,7 @@ class ModelEditorclass(QtGui.QWidget):
         filepath, filename = os.path.split(self.modelfile)
         base, ext= os.path.splitext(filename)      
         self.modelfile = os.path.join(filepath, base+'.xml')
-        print"Model File used for creating table : ",self.modelfile
+        print("Model File used for creating table : ",self.modelfile)
         self.tree = ET.parse(self.modelfile)
         self.root= self.tree.getroot()
         for elem in self.tree.iter(tag='ref_model'):
@@ -335,6 +335,7 @@ class ModelEditorclass(QtGui.QWidget):
         tree = ET.ElementTree(root)
         defaultcwd = os.getcwd()
         self.savepath = '../deviceModelLibrary'
+        txtfile=''
         if self.diode.isChecked():
             savepath = os.path.join(self.savepath, 'Diode')  
             os.chdir(savepath)

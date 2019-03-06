@@ -1,6 +1,6 @@
 import os
 from PyQt4 import QtGui
-import TrackWidget
+import kicadtoNgspice.TrackWidget as TrackWidget
 #from xml.etree import ElementTree as ET
 import json
 
@@ -40,7 +40,7 @@ class Source(QtGui.QWidget):
             json_data = json.loads(data)
 
         except:
-            print "Source Previous Values JSON is Empty"
+            print("Source Previous Values JSON is Empty")
         
         self.grid = QtGui.QGridLayout()
         self.setLayout(self.grid)
@@ -48,7 +48,7 @@ class Source(QtGui.QWidget):
         if sourcelist:
             for line in sourcelist:
                 #print "Voltage source line index: ",line[0]
-                print "SourceList line: ",line
+                print("SourceList line: ",line)
                 track_id=line[0]
                 #print "track_id is ",track_id
                 if line[2] == 'ac':
@@ -291,7 +291,7 @@ class Source(QtGui.QWidget):
                     sourcelisttrack.append([track_id, 'exp', self.start, self.end])                          
                 
         else:
-            print "No source is present in your circuit"
+            print("No source is present in your circuit")
         
     
         #This is used to keep the track of dynamically created widget

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="638f2a84-7dbc-4f25-8890-436908af48e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/browser/Welcome.py" beforeDir="false" afterPath="$PROJECT_DIR$/browser/Welcome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration/Appconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/configuration/Appconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/Application.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/Application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/DockArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/DockArea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/ProjectExplorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/ProjectExplorer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/Workspace.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/Workspace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/Analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/Convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/Convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/DeviceModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/DeviceModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/KicadtoNgspice.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/KicadtoNgspice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/Processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/Processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/Source.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/Source.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kicadtoNgspice/SubcircuitTab.py" beforeDir="false" afterPath="$PROJECT_DIR$/kicadtoNgspice/SubcircuitTab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelEditor/ModelEditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelEditor/ModelEditor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngspiceSimulation/NgspiceWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/ngspiceSimulation/NgspiceWidget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngspiceSimulation/pythonPlotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/ngspiceSimulation/pythonPlotting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngspicetoModelica/ModelicaUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/ngspicetoModelica/ModelicaUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngspicetoModelica/NgspicetoModelica.py" beforeDir="false" afterPath="$PROJECT_DIR$/ngspicetoModelica/NgspicetoModelica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projManagement/Kicad.py" beforeDir="false" afterPath="$PROJECT_DIR$/projManagement/Kicad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projManagement/Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/projManagement/Validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projManagement/Worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/projManagement/Worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projManagement/newProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/projManagement/newProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projManagement/openProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/projManagement/openProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subcircuit/Subcircuit.py" beforeDir="false" afterPath="$PROJECT_DIR$/subcircuit/Subcircuit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subcircuit/convertSub.py" beforeDir="false" afterPath="$PROJECT_DIR$/subcircuit/convertSub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subcircuit/newSub.py" beforeDir="false" afterPath="$PROJECT_DIR$/subcircuit/newSub.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontEnd/Application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="164" column="24" lean-forward="true" selection-start-line="164" selection-start-column="24" selection-end-line="164" selection-end-column="24" />
+              <folding>
+                <element signature="e#539#548#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontEnd/DockArea.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="193" selection-start-line="193" selection-end-line="193" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>make</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontEnd/Application.py" />
+        <option value="$PROJECT_DIR$/configuration/Appconfig.py" />
+        <option value="$PROJECT_DIR$/projManagement/Validation.py" />
+        <option value="$PROJECT_DIR$/projManagement/openProject.py" />
+        <option value="$PROJECT_DIR$/projManagement/newProject.py" />
+        <option value="$PROJECT_DIR$/projManagement/Kicad.py" />
+        <option value="$PROJECT_DIR$/projManagement/Worker.py" />
+        <option value="$PROJECT_DIR$/frontEnd/ProjectExplorer.py" />
+        <option value="$PROJECT_DIR$/frontEnd/Workspace.py" />
+        <option value="$PROJECT_DIR$/ngspiceSimulation/pythonPlotting.py" />
+        <option value="$PROJECT_DIR$/ngspiceSimulation/NgspiceWidget.py" />
+        <option value="$PROJECT_DIR$/modelEditor/ModelEditor.py" />
+        <option value="$PROJECT_DIR$/subcircuit/Subcircuit.py" />
+        <option value="$PROJECT_DIR$/subcircuit/newSub.py" />
+        <option value="$PROJECT_DIR$/subcircuit/convertSub.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/KicadtoNgspice.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/Processing.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/Analysis.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/Source.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/Model.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/DeviceModel.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/SubcircuitTab.py" />
+        <option value="$PROJECT_DIR$/kicadtoNgspice/Convert.py" />
+        <option value="$PROJECT_DIR$/browser/Welcome.py" />
+        <option value="$PROJECT_DIR$/ngspicetoModelica/ModelicaUI.py" />
+        <option value="$PROJECT_DIR$/ngspicetoModelica/NgspicetoModelica.py" />
+        <option value="$PROJECT_DIR$/frontEnd/DockArea.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="610" />
+    <option name="y" value="20" />
+    <option name="width" value="746" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frontEnd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frontEnd/Application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="638f2a84-7dbc-4f25-8890-436908af48e7" name="Default Changelist" comment="" />
+      <created>1551876592394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551876592394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-2" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" sideWeight="0.5011876" side_tool="true" weight="0.1854058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881235" visible="true" weight="0.1854058" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3087028" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/configuration/Appconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projManagement/Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="108" column="62" selection-start-line="108" selection-start-column="62" selection-end-line="108" selection-end-column="62" />
+          <folding>
+            <element signature="e#583#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/ProjectExplorer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116">
+          <caret line="54" column="51" lean-forward="true" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/Workspace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="117" column="43" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngspiceSimulation/pythonPlotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="706" column="18" selection-start-line="706" selection-start-column="18" selection-end-line="706" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projManagement/Worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="41" column="55" lean-forward="true" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projManagement/Kicad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1599">
+          <caret line="125" column="58" selection-start-line="125" selection-start-column="58" selection-end-line="125" selection-end-column="58" />
+          <folding>
+            <element signature="e#511#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projManagement/newProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelEditor/ModelEditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="337" column="17" selection-start-line="337" selection-start-column="17" selection-end-line="337" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subcircuit/Subcircuit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subcircuit/convertSub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="20" column="75" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subcircuit/newSub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngspiceSimulation/NgspiceWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/Processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="282" column="95" selection-start-line="282" selection-start-column="95" selection-end-line="282" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/Source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/DeviceModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/SubcircuitTab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/KicadtoNgspice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="641" column="4" lean-forward="true" selection-start-line="641" selection-start-column="4" selection-end-line="641" selection-end-column="4" />
+          <folding>
+            <element signature="e#547#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/TrackWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kicadtoNgspice/Convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projManagement/openProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngspicetoModelica/ModelicaUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngspicetoModelica/NgspicetoModelica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7050">
+          <caret line="470" column="39" selection-start-line="470" selection-start-column="39" selection-end-line="470" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngspicetoModelica/Mapping.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browser/Welcome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subcircuit/openSub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browser/UserManual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/Application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="164" column="24" lean-forward="true" selection-start-line="164" selection-start-column="24" selection-end-line="164" selection-end-column="24" />
+          <folding>
+            <element signature="e#539#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/DockArea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

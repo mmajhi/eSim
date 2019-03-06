@@ -1,6 +1,6 @@
 from PyQt4 import QtGui
 import json
-import TrackWidget
+import kicadtoNgspice.TrackWidget as TrackWidget
 #from xml.etree import ElementTree as ET
 import os
 
@@ -25,7 +25,7 @@ class Model(QtGui.QWidget):
             data = f.read()
             json_data = json.loads(data)
         except:
-            print "Model Previous Values JSON is Empty"
+            print("Model Previous Values JSON is Empty")
         
         
         

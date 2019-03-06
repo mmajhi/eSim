@@ -15,7 +15,7 @@ class NgspiceWidget(QtGui.QWidget):
         self.layout = QtGui.QVBoxLayout(self)
         self.layout.addWidget(self.terminal)
         
-        print "Argument to ngspice command : ",command        
+        print("Argument to ngspice command : ",command)
         
         if platform.system() == 'Linux':
             self.command = "cd "+projPath+";ngspice "+command
@@ -24,7 +24,7 @@ class NgspiceWidget(QtGui.QWidget):
             self.args = ['-hold','-e', self.command]
             self.process.start('xterm', self.args)
             self.obj_appconfig.process_obj.append(self.process)
-	    self.obj_appconfig.proc_dict[self.obj_appconfig.current_project['ProjectName']].append(self.process.pid())
+            self.obj_appconfig.proc_dict[self.obj_appconfig.current_project['ProjectName']].append(self.process.pid())
                      
         elif platform.system() == 'Windows':
             tempdir= os.getcwd()

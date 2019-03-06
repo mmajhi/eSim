@@ -167,7 +167,7 @@ class DockArea(QtGui.QMainWindow):
         count = count + 1
 
     def modelEditor(self):    
-            print"in model editor"
+            print("in model editor")
             global count
             self.modelwidget = QtGui.QWidget() 
             
@@ -191,7 +191,7 @@ class DockArea(QtGui.QMainWindow):
             dock['Model Editor-'+str(count)].setFocus()
             dock['Model Editor-'+str(count)].raise_()
 
-            self.obj_appconfig.dock_dict[self.obj_appconfig.current_project['ProjectName']].append(dock['Model Editor-'+str(count)])
+            self.obj_appconfig.dock_dict[self.obj_appconfig.current_project['ProjectName']].append(dock['Model Editor-'+ str(count)])
             count = count + 1
     
     def kicadToNgspiceEditor(self,clarg1,clarg2=None):
@@ -244,7 +244,7 @@ class DockArea(QtGui.QMainWindow):
         dock['Subcircuit-'+str(count)].setFocus()
         dock['Subcircuit-'+str(count)].raise_()
 
-        self.obj_appconfig.dock_dict[self.obj_appconfig.current_project['ProjectName']].append(dock['Subcircuit-'+str(count)])
+        self.obj_appconfig.dock_dict[self.obj_appconfig.current_project['ProjectName']].append(dock['Subcircuit-' + str(count)])
         count = count + 1
     
     def usermanual(self):

@@ -32,14 +32,14 @@ class WorkerThread(QtCore.QThread):
         self.wait()
           
     def run(self):
-        print "Worker Thread Calling Command :",self.args
+        print("Worker Thread Calling Command :",self.args)
         self.call_system(self.args)
         
     def call_system(self,command):
         procThread = Appconfig()
         proc = subprocess.Popen(command.split())
         procThread.procThread_list.append(proc)
-	procThread.proc_dict[procThread.current_project['ProjectName']].append(proc.pid)
+        procThread.proc_dict[procThread.current_project['ProjectName']].append(proc.pid)
         
         
     

@@ -14,8 +14,8 @@ class plotWindow(QtGui.QMainWindow):
         self.fpath = fpath
         self.projectName = projectName
         self.obj_appconfig = Appconfig()
-        print "Complete Project Path : ",self.fpath
-        print "Project Name : ",self.projectName
+        print("Complete Project Path : ",self.fpath)
+        print("Project Name : ",self.projectName)
         self.obj_appconfig.print_info('Ngspice simulation is called : ' + self.fpath)
         self.obj_appconfig.print_info('PythonPlotting is called : ' + self.fpath)
         self.combo = []
@@ -396,7 +396,7 @@ class plotWindow(QtGui.QMainWindow):
         }[letter]
         
     def multiMeter(self):
-        print "Function : MultiMeter"
+        print("Function : MultiMeter")
         self.obj = {}
         boxCheck = 0
         loc_x = 300
@@ -404,7 +404,7 @@ class plotWindow(QtGui.QMainWindow):
         
         for i,j in zip(self.chkbox,range(len(self.chkbox))):
             if i.isChecked():
-                print "Check box",self.obj_dataext.NBList[j]
+                print("Check box",self.obj_dataext.NBList[j])
                 boxCheck += 1
                 if self.obj_dataext.NBList[j] in self.obj_dataext.NBIList:
                     voltFlag = False
@@ -572,7 +572,7 @@ class DataExtraction:
                 allv = f1.read()
 
         except Exception as e:
-            print "Exception Message : ",str(e)
+            print("Exception Message : ",str(e))
             self.obj_appconfig.print_error('Exception Message :' + str(e))
             self.msg = QtGui.QErrorMessage(None)
             self.msg.showMessage('Unable to open plot data files.')
@@ -586,7 +586,7 @@ class DataExtraction:
             len_NBIList = len(self.NBIList)
             #print "NBILIST : ",self.NBIList
         except Exception as e:
-            print "Exception Message : ",str(e)
+            print("Exception Message : ",str(e))
             self.obj_appconfig.print_error('Exception Message :' + str(e))
             self.msg = QtGui.QErrorMessage(None)
             self.msg.showMessage('Error in Analysis File.')
@@ -608,7 +608,7 @@ class DataExtraction:
                 self.NBList.append(l)
         self.NBList=self.NBList[2:]
         len_NBList = len(self.NBList)
-        print "NBLIST",self.NBList
+        print("NBLIST",self.NBList)
         
         ivals=[]
         inum = len(allv[5].split("\t"))
@@ -704,7 +704,7 @@ class DataExtraction:
         self.NBList = self.NBList + self.NBIList
          
     
-        print dec    
+        print(dec)
         return dec
     
     
