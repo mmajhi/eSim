@@ -191,7 +191,7 @@ class DockArea(QtGui.QMainWindow):
             dock['Model Editor-'+str(count)].setFocus()
             dock['Model Editor-'+str(count)].raise_()
 
-            self.obj_appconfig.dock_dict[self.obj_appconfig.current_project['ProjectName']].append(dock['Model Editor-'+ str(count)])
+            self.obj_appconfig.dock_dict[self.obj_appconfig.current_project['ProjectName']].append(dock['Model Editor-'+str(count)])
             count = count + 1
     
     def kicadToNgspiceEditor(self,clarg1,clarg2=None):

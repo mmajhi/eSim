@@ -282,10 +282,10 @@ class ModelEditorclass(QtGui.QWidget):
         self.savebtn.setDisabled(False)
         try:
             indexitem = self.modeltable.currentItem()
-            name = str(indexitem.data(0).toString())
+            name = str(indexitem.data(0))
             rowno = indexitem.row()
             para = self.modeltable.item(rowno,0)
-            val = str(para.data(0).toString())
+            val = str(para.data(0))
             self.modeldict[val]= name
         except:
             pass
@@ -444,7 +444,7 @@ class ModelEditorclass(QtGui.QWidget):
     def removeparameter(self):
         self.savebtn.setDisabled(False)
         index = self.modeltable.currentIndex()
-        param = index.data().toString()
+        param = str(index.data())
         remove_item = self.modeltable.item(index.row(),0).text()
         self.modeltable.removeRow(index.row())
         del self.modeldict[str(remove_item)]
